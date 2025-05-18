@@ -30,4 +30,4 @@ The purpose of this project is to build a working translation system that can co
 Install the required libraries with:
 
 ```bash
-pip install transformers datasets torch sentencepiece
+!pip install transformers datasets sentencepiece --quiet
