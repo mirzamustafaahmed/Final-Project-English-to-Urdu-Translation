@@ -1,6 +1,6 @@
 # English to Urdu Translation Transformer Model
 
-## Project Description
+## Project Description:
 
 This project implements a Transformer-based neural machine translation (NMT) model to translate text from English to Urdu. The model is trained from scratch using the Hugging Face Transformers and Datasets libraries.
 
